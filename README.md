@@ -6,7 +6,7 @@
 src="https://komarev.com/ghpvc/?username=cpmohan&label=Profile%20views&color=0e75b6&style=flat"
  alt="cpmohan" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **mohancp06@gmail.com**
 
